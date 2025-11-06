@@ -59,6 +59,7 @@
     <img height="20" src="https://img.shields.io/github/followers/gamesken29suki?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
 ## 🛠️ **Tech Stack**
 
 <table align="center">
@@ -93,7 +94,7 @@
 ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gamesken29suki&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
 
 ## 💭 **Random Dev Quote**
