@@ -51,6 +51,14 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gamesken29suki">
 </div>
+<p align="left">
+  <a href="https://github.com/gamesken29suki">
+    <img height="20" src="https://komarev.com/ghpvc/?username=gamesken29suki" />
+  </a>
+  <a href="https://github.com/gamesken29suki">
+    <img height="20" src="https://img.shields.io/github/followers/gamesken29suki?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 ## 🛠️ **Tech Stack**
 
 <table align="center">
