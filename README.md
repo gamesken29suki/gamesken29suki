@@ -48,8 +48,9 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gamesken29suki&show_icons=true&theme=radical" />
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gamesken29suki)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gamesken29suki">
+</div>
 ## 🛠️ **Tech Stack**
 
 <table align="center">
